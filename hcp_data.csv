@@ -1,0 +1,201 @@
+hcp_id,specialty,years_in_practice,location,practice_type,board_certified
+HCP1,Oncology,11,Port Mikeside,Private,True
+HCP2,Dermatology,1,South David,Group,True
+HCP3,Pediatrics,2,Michaelton,Hospital,True
+HCP4,Neurology,23,Jasonbury,Academic,True
+HCP5,Cardiology,10,West Kimberlychester,Private,True
+HCP6,Cardiology,1,East Michelle,Academic,True
+HCP7,Cardiology,2,South Angel,Private,True
+HCP8,Pediatrics,11,Kimberlychester,Private,True
+HCP9,Neurology,1,West Erik,Group,True
+HCP10,Pediatrics,2,South Monicafort,Private,True
+HCP11,Cardiology,8,East Lisa,Private,True
+HCP12,Dermatology,12,Baileybury,Group,True
+HCP13,Pediatrics,11,North Donna,Group,True
+HCP14,Oncology,3,Murphyland,Hospital,True
+HCP15,Cardiology,13,Michaelhaven,Hospital,False
+HCP16,Cardiology,3,Frazierside,Hospital,False
+HCP17,Oncology,4,Sheilaville,Private,True
+HCP18,Neurology,14,Gregoryview,Private,True
+HCP19,Oncology,11,North Candacestad,Hospital,True
+HCP20,Oncology,19,Samuelhaven,Academic,True
+HCP21,Neurology,11,South Rachelborough,Academic,True
+HCP22,Cardiology,9,Bradleychester,Academic,True
+HCP23,Oncology,1,New Saraside,Private,True
+HCP24,Oncology,5,West Ryan,Hospital,True
+HCP25,Oncology,4,Cindyville,Private,True
+HCP26,Pediatrics,3,Williamchester,Hospital,True
+HCP27,Cardiology,37,Richardport,Hospital,True
+HCP28,Neurology,5,East Robert,Academic,True
+HCP29,Neurology,23,Byrdburgh,Private,True
+HCP30,Cardiology,10,Richardtown,Private,True
+HCP31,Neurology,16,Justinchester,Private,True
+HCP32,Cardiology,7,Stevenmouth,Academic,False
+HCP33,Cardiology,9,New Thomas,Hospital,True
+HCP34,Dermatology,7,Lake Christopher,Private,True
+HCP35,Dermatology,3,Clarencebury,Private,True
+HCP36,Pediatrics,13,Jeffreyborough,Academic,True
+HCP37,Oncology,4,North Brandon,Private,True
+HCP38,Cardiology,1,Carrland,Academic,True
+HCP39,Neurology,11,Perryshire,Academic,True
+HCP40,Oncology,2,Lake Heather,Private,True
+HCP41,Cardiology,29,Rossberg,Private,True
+HCP42,Oncology,31,Port Michelleville,Group,True
+HCP43,Cardiology,25,Robinsonhaven,Private,True
+HCP44,Dermatology,5,Williamsbury,Private,True
+HCP45,Oncology,1,South Dennismouth,Academic,True
+HCP46,Neurology,27,Stephaniemouth,Group,False
+HCP47,Oncology,6,Rivasside,Group,True
+HCP48,Neurology,35,Merrittfort,Academic,True
+HCP49,Neurology,34,Greenbury,Private,True
+HCP50,Cardiology,20,Katiehaven,Private,True
+HCP51,Dermatology,4,Simsview,Academic,True
+HCP52,Pediatrics,5,Jonesport,Hospital,True
+HCP53,Dermatology,20,West Matthew,Hospital,True
+HCP54,Pediatrics,4,East Edwardfurt,Group,True
+HCP55,Neurology,2,Lake Jason,Private,True
+HCP56,Dermatology,9,Russellside,Hospital,True
+HCP57,Cardiology,28,Perryborough,Private,True
+HCP58,Cardiology,12,Priceshire,Hospital,True
+HCP59,Cardiology,9,Port Nicoleshire,Private,True
+HCP60,Oncology,2,Woodsstad,Private,True
+HCP61,Oncology,10,Karenchester,Private,True
+HCP62,Oncology,47,South Jeffrey,Hospital,False
+HCP63,Pediatrics,2,Tuckerfurt,Academic,True
+HCP64,Oncology,8,Elizabethfurt,Hospital,True
+HCP65,Oncology,21,Port Tanner,Group,True
+HCP66,Neurology,14,New Amanda,Private,True
+HCP67,Cardiology,12,Vargastown,Private,True
+HCP68,Pediatrics,13,Lake Roymouth,Academic,True
+HCP69,Cardiology,5,North Jorge,Private,True
+HCP70,Dermatology,4,Jasonmouth,Group,True
+HCP71,Pediatrics,17,Kathleenfurt,Private,True
+HCP72,Cardiology,17,Karenchester,Group,False
+HCP73,Cardiology,21,Maryfort,Private,True
+HCP74,Pediatrics,25,Lake Amberstad,Academic,True
+HCP75,Pediatrics,8,Lake Casey,Hospital,True
+HCP76,Pediatrics,7,Port Anthonybury,Group,False
+HCP77,Pediatrics,17,Port Andrew,Private,True
+HCP78,Cardiology,11,East David,Hospital,True
+HCP79,Oncology,13,New Staciemouth,Group,False
+HCP80,Cardiology,16,Katieburgh,Hospital,False
+HCP81,Pediatrics,23,Port Loriport,Hospital,True
+HCP82,Neurology,5,New Anthonyport,Hospital,True
+HCP83,Oncology,5,Sandersborough,Hospital,True
+HCP84,Cardiology,1,New Hannahbury,Hospital,True
+HCP85,Oncology,9,Lake Kendraville,Hospital,False
+HCP86,Oncology,1,West Amandastad,Group,True
+HCP87,Pediatrics,7,New Deborahtown,Private,True
+HCP88,Neurology,8,Shortville,Private,True
+HCP89,Pediatrics,4,Yumouth,Group,True
+HCP90,Oncology,9,South Gregory,Academic,True
+HCP91,Cardiology,1,Christinaside,Hospital,True
+HCP92,Pediatrics,1,Marshallshire,Hospital,True
+HCP93,Pediatrics,18,Marcusbury,Private,True
+HCP94,Neurology,5,West Nicolebury,Private,True
+HCP95,Pediatrics,2,Hudsonfurt,Hospital,True
+HCP96,Oncology,8,Anthonymouth,Private,True
+HCP97,Neurology,15,South Jason,Hospital,True
+HCP98,Oncology,3,Matthewview,Private,True
+HCP99,Cardiology,10,New Stacyland,Group,True
+HCP100,Cardiology,1,Lake Richard,Group,True
+HCP101,Cardiology,1,Lake Thomas,Hospital,True
+HCP102,Neurology,8,Westtown,Hospital,True
+HCP103,Oncology,8,West Jeffreybury,Private,True
+HCP104,Neurology,11,Elizabethstad,Academic,True
+HCP105,Dermatology,13,Transtad,Hospital,True
+HCP106,Oncology,38,Barajasside,Private,False
+HCP107,Oncology,8,Michaelmouth,Group,True
+HCP108,Pediatrics,4,Kristopherbury,Academic,True
+HCP109,Oncology,16,Lake Jamesville,Group,True
+HCP110,Cardiology,4,East Javier,Academic,True
+HCP111,Oncology,6,Hillshire,Hospital,True
+HCP112,Cardiology,1,Tinaborough,Hospital,True
+HCP113,Dermatology,1,Jeremyburgh,Group,True
+HCP114,Pediatrics,33,Alexisside,Academic,True
+HCP115,Neurology,19,West Brandon,Private,True
+HCP116,Pediatrics,12,New Kellyberg,Private,False
+HCP117,Pediatrics,6,Garciatown,Private,True
+HCP118,Cardiology,2,Taylormouth,Academic,False
+HCP119,Pediatrics,2,Jackton,Group,True
+HCP120,Neurology,3,Shelleyfort,Private,True
+HCP121,Pediatrics,8,Port Cameronfort,Hospital,False
+HCP122,Pediatrics,13,New Crystalton,Private,True
+HCP123,Oncology,11,East Lisa,Group,True
+HCP124,Cardiology,4,Christopherbury,Academic,True
+HCP125,Oncology,31,New Kathybury,Academic,True
+HCP126,Oncology,14,Hayesmouth,Hospital,True
+HCP127,Pediatrics,9,Michellechester,Hospital,True
+HCP128,Pediatrics,10,Ashleyton,Private,True
+HCP129,Cardiology,6,Port Jaredborough,Private,True
+HCP130,Neurology,3,Donnaburgh,Academic,True
+HCP131,Oncology,5,East Andrea,Academic,True
+HCP132,Oncology,15,North Ricky,Group,True
+HCP133,Cardiology,1,Carterbury,Group,True
+HCP134,Oncology,2,Jasminemouth,Hospital,True
+HCP135,Dermatology,1,Lake Jesusview,Academic,True
+HCP136,Oncology,1,South Danny,Group,False
+HCP137,Neurology,20,Lake Edward,Academic,True
+HCP138,Pediatrics,13,Margaretland,Private,True
+HCP139,Oncology,7,East Laurashire,Hospital,True
+HCP140,Dermatology,2,Scottmouth,Private,True
+HCP141,Dermatology,7,Hollyview,Group,True
+HCP142,Oncology,7,Kimton,Hospital,True
+HCP143,Oncology,2,Navarroview,Private,True
+HCP144,Oncology,6,North Jeremyshire,Hospital,True
+HCP145,Oncology,6,Port Emilyview,Hospital,True
+HCP146,Cardiology,10,Port Katelynfort,Private,False
+HCP147,Neurology,11,Moonburgh,Private,True
+HCP148,Neurology,1,Waltersfort,Hospital,True
+HCP149,Cardiology,5,South Michaelmouth,Hospital,False
+HCP150,Oncology,10,Elizabethburgh,Academic,True
+HCP151,Dermatology,7,Robertfort,Hospital,True
+HCP152,Oncology,20,Elainefurt,Academic,False
+HCP153,Cardiology,11,South Christopherview,Hospital,True
+HCP154,Oncology,2,Darrellfurt,Hospital,True
+HCP155,Dermatology,1,Lake Mollymouth,Academic,True
+HCP156,Oncology,11,Brownhaven,Hospital,True
+HCP157,Neurology,1,Cindyfort,Private,True
+HCP158,Pediatrics,9,Wolfborough,Private,True
+HCP159,Oncology,29,Andreaport,Academic,False
+HCP160,Pediatrics,9,Gilmorefort,Hospital,True
+HCP161,Oncology,5,North Teresabury,Academic,True
+HCP162,Neurology,11,West Andrea,Private,True
+HCP163,Neurology,7,Davisville,Private,True
+HCP164,Neurology,8,Valentineberg,Private,True
+HCP165,Cardiology,29,Cantuport,Private,True
+HCP166,Pediatrics,5,Robertfort,Hospital,True
+HCP167,Oncology,33,Sanchezside,Private,True
+HCP168,Cardiology,24,South James,Hospital,False
+HCP169,Cardiology,3,Port Chad,Group,True
+HCP170,Neurology,1,Morganhaven,Private,True
+HCP171,Neurology,2,Loriport,Hospital,True
+HCP172,Cardiology,1,Maryshire,Academic,True
+HCP173,Neurology,1,Grimesmouth,Private,True
+HCP174,Oncology,12,Reedside,Hospital,True
+HCP175,Neurology,1,Gibsonmouth,Academic,True
+HCP176,Cardiology,4,Lake John,Group,True
+HCP177,Neurology,19,Hallchester,Private,True
+HCP178,Oncology,1,West Juliefurt,Group,True
+HCP179,Dermatology,17,Mcneilberg,Hospital,True
+HCP180,Cardiology,4,Hannaberg,Private,True
+HCP181,Oncology,2,Mollymouth,Hospital,True
+HCP182,Cardiology,12,New Reneetown,Group,True
+HCP183,Dermatology,10,South Monica,Hospital,True
+HCP184,Pediatrics,21,North Terrance,Private,True
+HCP185,Oncology,14,Matthewfurt,Hospital,True
+HCP186,Neurology,17,Port Markside,Private,False
+HCP187,Pediatrics,4,Finleyfort,Private,True
+HCP188,Neurology,2,New Caseyport,Private,True
+HCP189,Neurology,14,Lake Christopher,Private,True
+HCP190,Oncology,17,Port Cynthiaville,Private,False
+HCP191,Cardiology,47,Jacksonport,Private,True
+HCP192,Pediatrics,6,North Markton,Hospital,True
+HCP193,Dermatology,5,Michaelchester,Private,True
+HCP194,Neurology,15,East Amanda,Private,True
+HCP195,Oncology,5,East Gregory,Academic,True
+HCP196,Oncology,27,Harveybury,Hospital,False
+HCP197,Pediatrics,20,Durhamberg,Hospital,False
+HCP198,Pediatrics,6,South Dana,Private,True
+HCP199,Pediatrics,14,Scotttown,Private,True
+HCP200,Pediatrics,15,Santanaside,Private,False
