@@ -100,4 +100,4 @@ streamlit run interactive_charts.py
 
 ## 📬 Questions?
 
-Feel free to open an issue or contact the author for support.
+Feel free to open an issue or contact Wendy Lawhead for support.
