@@ -16,7 +16,7 @@ These inefficiencies result in suboptimal campaign performance, lost revenue opp
 
 ## Data Sources (Synthetic for PoC)
 To simulate real-world pharma data, the PoC will use synthetic datasets representing:
-- HCP Profile Data: Specialty, geography, years in practice, patient volume.
+- HCP Profile Data: Specialty, geography, years in practice, board certified.
 - Engagement Metrics: Email opens, rep visits, digital ad clicks, total marketing channel touches.
 - Behaviorial Data: Webinar attendance, email open rate, click through rate, portal logins.
 - Outcome Variable: Binary flag indicating whether the HCP is likely to prescribe (modeled via logistic regression).
