@@ -11,6 +11,7 @@ As a result:
 - Field reps are inefficiently deployed, targeting low-propensity HCPs.
 - Marketing campaigns lack the agility to redirect resources toward high-impact channels or prescribers.
 - There is limited visibility into predictive indicators of prescribing behavior or disengagement.
+  
 These inefficiencies result in suboptimal campaign performance, lost revenue opportunities, and poor return on marketing investments.
 
 ## Data Sources (Synthetic for PoC)
