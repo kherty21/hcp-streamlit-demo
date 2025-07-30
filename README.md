@@ -5,8 +5,6 @@ Implement Dynamic HCP Targeting & Segmentation using AI-driven predictive modeli
 
 This Streamlit app demonstrates an AI-powered dashboard to explore healthcare professional (HCP) data, visualize engagement trends, and predict prescribing lift using a logistic regression model.
 
----
-
 # Problem Statement
 Pharmaceutical field teams and marketers often rely on static HCP segmentation models that fail to account for real-time engagement behavior, changes in prescribing trends, and cross-channel responsiveness. 
 As a result:
@@ -15,7 +13,6 @@ As a result:
 - There is limited visibility into predictive indicators of prescribing behavior or disengagement.
 These inefficiencies result in suboptimal campaign performance, lost revenue opportunities, and poor return on marketing investments.
 
----
 # Data Sources (Synthetic for PoC)
 To simulate real-world pharma data, the PoC will use synthetic datasets representing:
 - HCP Profile Data: Specialty, geography, years in practice, patient volume.
