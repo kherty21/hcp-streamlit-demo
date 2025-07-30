@@ -22,10 +22,10 @@ To simulate real-world pharma data, the PoC will use synthetic datasets represen
 - Outcome Variable: Binary flag indicating whether the HCP is likely to prescribe (modeled via logistic regression). 1 = probability HCP will respond to outreach.
 
 ## Modeling
-# Generate target variable (simulate prescribing lift)
+### Generate target variable (simulate prescribing lift)
 df["likely_to_prescribe"] = (df["engagement_score"] > 70).astype(int)
 
-# Train a simple logistic regression model
+### Train a simple logistic regression model
 features = ["engagement_score", "rep_visits", "email_open_rate", "click_through_rate", "portal_logins"]
 
 
