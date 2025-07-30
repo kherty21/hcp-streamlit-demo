@@ -29,7 +29,7 @@ df["likely_to_prescribe"] = (df["engagement_score"] > 70).astype(int)
 features = ["engagement_score", "rep_visits", "email_open_rate", "click_through_rate", "portal_logins"]
 
 
-## 🚀 Features
+## 🚀 Analysis and Data Visualization
 
 - 📊 Interactive visualizations with Plotly
 - 🎛️ Sidebar filters (specialty & engagement score)
