@@ -1,6 +1,8 @@
 
 # 💊 Dynamic HCP Targeting & Segmentation Dashboard
 
+Implement Dynamic HCP Targeting & Segmentation using AI-driven predictive modeling to optimize pharmaceutical marketing efforts. By leveraging machine learning algorithms, the project aims to improve targeting precision, increase sales force efficiency, and enhance marketing ROI. 
+
 This Streamlit app demonstrates an AI-powered dashboard to explore healthcare professional (HCP) data, visualize engagement trends, and predict prescribing lift using a logistic regression model.
 
 ---
