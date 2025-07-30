@@ -8,10 +8,11 @@ This Streamlit app demonstrates an AI-powered dashboard to explore healthcare pr
 ---
 
 # Problem Statement
-Pharmaceutical field teams and marketers often rely on static HCP segmentation models that fail to account for real-time engagement behavior, changes in prescribing trends, and cross-channel responsiveness. As a result:
-•	Field reps are inefficiently deployed, targeting low-propensity HCPs.
-•	Marketing campaigns lack the agility to redirect resources toward high-impact channels or prescribers.
-•	There is limited visibility into predictive indicators of prescribing behavior or disengagement.
+Pharmaceutical field teams and marketers often rely on static HCP segmentation models that fail to account for real-time engagement behavior, changes in prescribing trends, and cross-channel responsiveness. 
+As a result:
+- Field reps are inefficiently deployed, targeting low-propensity HCPs.
+- Marketing campaigns lack the agility to redirect resources toward high-impact channels or prescribers.
+- There is limited visibility into predictive indicators of prescribing behavior or disengagement.
 These inefficiencies result in suboptimal campaign performance, lost revenue opportunities, and poor return on marketing investments.
 
 
