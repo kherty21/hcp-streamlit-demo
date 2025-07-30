@@ -47,7 +47,7 @@ hcp_streamlit_demo_kit/
 
 4. **Your app will launch at**:
    ```
-  (https://hcp-app-demo-bz6wsnvee9fd92s86bbyzx.streamlit.app/)
+  https://hcp-app-demo-bz6wsnvee9fd92s86bbyzx.streamlit.app/
    ```
 
 ---
