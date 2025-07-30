@@ -19,7 +19,7 @@ To simulate real-world pharma data, the PoC will use synthetic datasets represen
 - HCP Profile Data: Specialty, geography, years in practice, board certified.
 - Engagement Metrics: Engagement score, rep visits, sample requests, event attendance.
 - Behaviorial Data: Webinar attendance, email open rate, click through rate, portal logins.
-- Outcome Variable: Binary flag indicating whether the HCP is likely to prescribe (modeled via logistic regression).
+- Outcome Variable: Binary flag indicating whether the HCP is likely to prescribe (modeled via logistic regression). 1 = probability HCP will respond to outreach.
 
 
 ## 🚀 Features
