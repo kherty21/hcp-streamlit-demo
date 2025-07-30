@@ -13,7 +13,6 @@ Pharmaceutical field teams and marketers often rely on static HCP segmentation m
 •	Marketing campaigns lack the agility to redirect resources toward high-impact channels or prescribers.
 •	There is limited visibility into predictive indicators of prescribing behavior or disengagement.
 These inefficiencies result in suboptimal campaign performance, lost revenue opportunities, and poor return on marketing investments.
-<img width="468" height="226" alt="image" src="https://github.com/user-attachments/assets/a928b2f3-e125-4843-bb2b-c9a3ee399f5f" />
 
 
 ## 🚀 Features
