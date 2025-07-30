@@ -15,6 +15,14 @@ As a result:
 - There is limited visibility into predictive indicators of prescribing behavior or disengagement.
 These inefficiencies result in suboptimal campaign performance, lost revenue opportunities, and poor return on marketing investments.
 
+---
+# Data Sources (Synthetic for PoC)
+To simulate real-world pharma data, the PoC will use synthetic datasets representing:
+- HCP Profile Data: Specialty, geography, years in practice, patient volume.
+- Engagement Metrics: Email opens, rep visits, digital ad clicks, total marketing channel touches.
+- Prescribing History: Number of prescriptions historically written for the target brand or category.
+- Outcome Variable: Binary flag indicating whether the HCP is likely to prescribe (modeled via logistic regression).
+
 
 ## 🚀 Features
 
